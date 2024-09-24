@@ -1,0 +1,481 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+}
+
+.header__logo{
+    display: flex;
+    margin-left: 228px;
+    margin-top: 53px;
+}
+
+.header__center{
+    margin-top: -50px;
+    margin-left: 850px;
+}
+
+.nav{
+    margin-left: 1400px;
+    margin-top: -120px;
+}
+
+.button{
+    border: 0;
+    background-color: #fff;
+    margin-left: 1465px;
+    margin-top: -150px;
+}
+
+.btn{
+    margin-top: -35px;
+}
+
+.button__2{
+    border: 0;
+    background-color: #fff;
+    margin-left: 1550px;
+    margin-top: -150px;
+}
+
+.cart{
+    margin-top: -20px;
+}
+
+.button__3{
+    border: 0;
+    background-color: #fff;
+    margin-left: 1650px;
+}
+
+.menu{
+    margin-top: -24px;
+}
+
+.text{
+    color: #FF9401;
+    margin-left: 232px;
+    margin-top: 154px;
+    font-size: 22px;
+}
+
+.text__title{
+    font-size: 96px;
+    margin-left: 227px;
+    color: #232323;
+    font-weight: 800;
+}
+
+.mood2{
+    margin-top: -100px;
+}
+
+.text__subtitle{
+    margin-left: 234px;
+    font-size: 20px;
+    gap: 5px;
+}
+
+.text__untitle{
+    margin-left: 245px;
+    margin-top: 90px;
+    border-radius: 40px;
+    background-color: #FF9401;
+    color: #FFFFFF;
+    padding: 18px 16px;
+    width: 160px;
+}
+
+.text__link{
+    color: #FFFFFF;
+}
+
+.background{
+    background: url(../img/background.png) no-repeat cover;
+    margin-left: 860px;
+    margin-top: -530px;
+}
+
+.back__1{
+    margin-left: 1016px;
+    margin-top: -125px;
+}
+
+.back__2{
+    margin-left: 1118px;
+    margin-top: -240px;
+}
+
+.back__3{
+    margin-left: 1190px;
+    margin-top: -280px;
+}
+
+.nav__btn{
+    display: flex;
+    margin-left: 230px;
+    margin-top: 50px;
+    border: 0;
+    background-color: #FFFFFF;
+    gap: 20px;
+}
+
+.nav__btn-face{
+    border: 0;
+    background-color: #FFFFFF;
+    display: flex;
+    gap: 20px;
+}
+
+.nav__button{
+    border: 0;
+    background-color: #FFFFFF;
+}
+
+.nav__button{
+    margin-left: 190px;
+    margin-top: 50px;
+    border: 0;
+    background-color: #FFFFFF;
+}
+
+.main{
+    background: linear-gradient(#fff9f4, #ffffff);
+}
+
+.text__untitle-main{
+    margin-left: 935px;
+    margin-top: 134px;
+    color: #FF9401;
+    font-size: 23px;
+}
+
+.text__title-main{
+    margin-left: 935px;
+    margin-top: 19px;
+    color: #232323;
+    font-size: 42px;
+}
+
+.text__subtitle-main{
+    margin-left: 935px;
+    margin-top: 45px;
+    color: #000000;
+    font-size: 20px;
+}
+
+.text__link-main{
+    margin-left: 935px;
+    margin-top: 80px;
+    border-radius: 40px;
+    background-color: #FF9401;
+    padding: 16px 10px;
+    width: 190px;
+    color: #FFFFFF;
+}
+
+.text__link-main-color{
+    color: #FFFFFF;
+}
+
+.img__decor{
+    margin-left: 1140px;
+    margin-top: -330px;
+}
+
+.img__decor-meat{
+    margin-left: 189px;
+    margin-top: -220px;
+}
+
+.img__sauce{
+    margin-left: 10px;
+    margin-top: -420px;
+}
+
+.main__services-text{
+    margin-top: 300px;
+}
+
+.main__services-text-title{
+    margin-left: 700px;
+    font-size: 40px;
+    margin-top: 85px;
+}
+
+.main__sevrices-img{
+    display: flex;
+    gap: 190px;
+    margin-left: 630px;
+    margin-top: 63px;
+}
+
+.main__services-title{
+    display: flex;
+    gap: 115px;
+    margin-left: 580px;
+    margin-top: 30px;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.main__services-subtitle{
+    display: flex;
+    gap: 90px;
+    margin-left: 586px;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.main__img-eat{
+    margin-right: 1419px;
+    margin-top: -700px;
+}
+
+.main__img-eat_2{
+    margin-top: -70px;
+}
+
+.main__img-eat_5{
+    margin-left: 1749px;
+    margin-top: -550px;
+}
+
+.main__img-eat_4{
+    margin-left: 1630px;
+    margin-top: -500px;
+}
+
+.main__card-text{
+    margin-top: 550px;
+    font-size: 42px;
+    margin-left: 710px;
+}
+
+.main__card-img{
+    margin-left: 933px;
+}
+
+.main__card{
+    background: linear-gradient(#fff9f4, #ffffff);
+}
+
+.main__card-menu{
+    margin-left: 310px;
+}
+
+.main__card-title{
+    margin-left: 405px;
+    margin-top: -220px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.main__card-link{
+    color: #FFFFFF;
+    background-color: #FF9401;
+    border-radius: 45px;
+    padding: 16px 50px;
+    width: 190px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.main__card-linker{
+    margin-top: 180px;
+    margin-left: 875px;
+}
+
+.main__dev-text{
+    color: #FF9401;
+    margin-left: 1150px;
+    margin-top: 207px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.main__dev-title{
+    margin-left: 1150px;
+    font-size: 48px;
+    font-weight:700;
+}
+
+.main__dev-subtitle{
+    margin-left: 1150px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 650;
+}
+
+.main__dev-app{
+    margin-left: 1160px;
+    margin-top: 50px;
+}
+
+.main__dev-delivery{
+    margin-left: 1500px;
+    margin-top: -150px;
+}
+
+.main__dev-subphone{
+    margin-left: 234px;
+    margin-top: -390px;
+}
+
+.main__dev-phone{
+    margin-left: 500px;
+    margin-top: -500px;
+}
+
+.main__dev-cocacola{
+    margin-top: -700px;
+}
+
+.main__dev-macarone{
+    margin-left: 1518px;
+    margin-top: -400px;
+}
+
+.main__reviews{
+    margin-top: 709px;
+    margin-left: 213px;
+}
+
+.main__reviews-untitle{
+    color: #FF9401;
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.main__reviews-title{
+    margin-top: 23px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.main__reviews-subtitle{
+    margin-top: 29px;
+    font-size: 16px;
+}
+
+.main__reviews-name{
+    margin-top: 29px;
+    font-size: 22px;
+    color: #2E2E2E;
+}
+
+.disygn__product{
+   margin-top: 3px;
+   font-size: 12px;
+   color: #675959; 
+}
+
+.main__arrow{
+    margin-left: 250px;
+    margin-top: -35px;
+}
+
+.main__reviews-img{
+    margin-left: 757px;
+    margin-top: -480px;
+}
+
+.main__reviewsauce-img{
+    margin-left: 950px;
+    margin-top: -480px;
+}
+
+.footer{
+    margin-top: 100px;
+}
+
+.footer__logo{
+    margin-left: 250px;
+    margin-top: -270px;
+}
+
+.footer__contact{
+    margin-left: 250px;
+    margin-top: 33px;
+}
+
+.footer__contact-mail{
+    margin-left: 280px;
+    margin-top: -22px;
+    font-size: 14px;
+    color: #3F3232;
+}
+
+.footer__contact-wiki{
+    margin-left: 250px;
+    margin-top: 34px;
+}
+
+.footer__contact-wik{
+    margin-left: 280px;
+    margin-top: -23px;
+    color: #3F3232;
+    font-size: 14px;
+}
+
+.footer__reviewsbig{
+    margin-top: -150px;
+    margin-left: 892px;
+    color: #2E2E2E;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.footer__our-info{
+    display: flex;
+    margin-top: 8px;
+    margin-left: 630px;
+    gap: 65px;
+    font-size: 18px;
+    color: #2E2E2E;
+    font-weight: 600;
+}
+
+.footer__menu-link{
+    color: #6A5C5C;
+}
+
+.footer__ourmenu-link{
+    display: flex;
+    margin-left: 630px;
+    margin-top: 40px;
+    gap: 120px;
+    text-align: center;
+    color: #6A5C5C;
+}
+
+.footer__two-line{
+    display: flex;
+    margin-left: 630px;
+    margin-top: 40px;
+    gap: 120px;
+    text-align: center;
+    color: #6A5C5C;
+}
+
+.footer__three-line{
+    display: flex;
+    margin-left: 630px;
+    margin-top: 40px;
+    gap: 120px;
+    text-align: center;
+    color: #6A5C5C;
+}
+
+.footer__text-main{
+    color: #685D5D;
+    margin-left: 700px;
+    margin-top: 50px;
+}
+
+
+
